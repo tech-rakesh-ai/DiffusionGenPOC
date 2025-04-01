@@ -123,3 +123,6 @@ if generate_button:
 
 st.markdown("---")
 
+
+st.sidebar.markdown("### 👨‍💻 Developed by [Rakesh Kumar](https://www.linkedin.com/in/tech-rakesh-ai/) 🚀")
+
